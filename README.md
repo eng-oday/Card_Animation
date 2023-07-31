@@ -1,6 +1,5 @@
-# Card_Animation
 
-** Card View**
+# Card View App 
 
-- 🤔SwiftUi
-- 🫥Animation 
+- 🤔SwiftUi .
+- 🫥Animation .
